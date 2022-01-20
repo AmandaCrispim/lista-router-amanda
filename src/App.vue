@@ -48,7 +48,11 @@ export default {
       mini : false,
       items : [
         { title : "home", icon: "mdi-home", to : "/"},
-        { title : "perfil", icon: "mdi-account-circle", to : "perfil" }
+        { title : "perfil", icon: "mdi-account-circle", to : "/perfil" },
+        { title : "home", icon: "mdi-home", to : "/"},
+        { title : "perfil", icon: "mdi-account-circle", to : "/perfil" },
+        { title : "home", icon: "mdi-home", to : "/"},
+        { title : "perfil", icon: "mdi-account-circle", to : "/perfil" },
         
         
       ],
